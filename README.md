@@ -1,2 +1,2 @@
 # My-Chess
-Basically its a GUI chessboard with chess pieces that you can play chess on.(However it is incomplete.)
+This is a GUI based chessboard with playable chess pieces that uses JavaFX to make the actual chessboard. Credits to canva for their chess piece's images. This project is very incomplete.
